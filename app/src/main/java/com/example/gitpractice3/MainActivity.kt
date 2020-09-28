@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         println("This is contained in my second commit")
         println("Local changes")
         println("CHANGE 4")
+        println("Hello from your friend")
 
         println("This line will be merged")
     }
